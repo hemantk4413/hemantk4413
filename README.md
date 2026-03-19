@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🏙️ Based in **Pune, Maharashtra, India**
-- 💼 Junior DevOps Engineer at **Wipro**
+- 💼 Junior DevOps Engineer
 - ☁️ 3+ years of experience, primarily on **AWS Cloud**
 - 🏗️ Led end-to-end implementation of a **3-year Telecom Service Provider architecture project**
 - 📜 **AWS Certified Solutions Architect – Associate**

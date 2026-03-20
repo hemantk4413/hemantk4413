@@ -1,11 +1,9 @@
 <h1 align="center">Hello There 👋</h1>
-<h1 align="center">I'm Hemant</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Junior+DevOps+Engineer;AWS+Certified+Solutions+Architect;3%2B+Years+of+Experience;Cloud+%7C+DevOps+%7C+Infrastructure" alt="Typing SVG" />
 </p>
----
-
+## I'm Hemant
 ## 👨‍💻 About Me
 
 - 🏙️ Based in **Pune, Maharashtra, India**
